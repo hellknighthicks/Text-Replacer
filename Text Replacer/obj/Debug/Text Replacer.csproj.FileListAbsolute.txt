@@ -1,0 +1,10 @@
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\bin\Debug\Text Replacer.exe.config
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\bin\Debug\Text Replacer.exe
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\bin\Debug\Text Replacer.pdb
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\obj\Debug\Text Replacer.csprojResolveAssemblyReference.cache
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\obj\Debug\Text_Replacer.Form1.resources
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\obj\Debug\Text_Replacer.Properties.Resources.resources
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\obj\Debug\Text Replacer.csproj.GenerateResource.Cache
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\obj\Debug\Text Replacer.exe
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\obj\Debug\Text Replacer.pdb
+c:\users\hellknigh-hicks\documents\visual studio 2012\Projects\Text Replacer\Text Replacer\obj\Debug\Text Replacer.exe.licenses
